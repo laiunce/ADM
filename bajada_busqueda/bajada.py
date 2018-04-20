@@ -88,7 +88,7 @@ def crea_metricas_palabras(df1):
 def devuelve_palabras_cantidades(busqueda,fechaini,fechafin,regex):
     print('obtiene paginas')
     #obtiene busquedas
-    path = "http://"+server_dir+":5000/api/v1/resources/get_google?busqueda={}&fechaini={}&fechafin={}".format(busqueda,fechaini,fechafin)
+    path = "http://"+server_dir+":5000/api/v1/resources/get_google_noticias?busqueda={}&fechaini={}&fechafin={}".format(busqueda,fechaini,fechafin)
     r = requests.get(path) 
     json = r.json()
     
@@ -102,7 +102,7 @@ def devuelve_palabras_cantidades(busqueda,fechaini,fechafin,regex):
     contador = 0
     for pagina in json:
         contador +=1
-        print('va por pagina: '+str(contador))
+        print('va por pagina: '+str(contador)+' '+pagina)
         try:
             df = obtiene_texto_palabras_metricas(busqueda,pagina,fechaini,fechafin)
             df1= pd.concat([df1, df], ignore_index=True) 
@@ -134,14 +134,15 @@ directorio_salida='/Users/laiunce/Documents/ADM/bajada_busqueda/'
 data_out_merged = pd.DataFrame()
 
 
-busqueda = 'tarifazo'
-regex= 'tarifazo'
-
+busqueda = 'daniel+pelegrina'
+#regex= 'macri.*puta.*pario'
+regex= 'daniel.{0,10}pelegrina'
 
 
 comando2= 'mkdir bajada/'+busqueda
 #os.system(comando2)  
         
+#fechas = ['20180411','20180412','20180413','20180414','20180415','20180416','20180417']
 fechas = ['20180411','20180412','20180413','20180414','20180415','20180416','20180417']
 for i in fechas:
     print(i)
@@ -150,14 +151,14 @@ for i in fechas:
         fechafin = i
         data_out = devuelve_palabras_cantidades(busqueda,fechaini,fechafin,regex)   
         #data_out_merged= pd.concat([data_out_merged, data_out], ignore_index=True)
-        data_out.to_csv(directorio_salida+'bajadas/'+busqueda+'/'+i+'.csv',index=False)
+        data_out.to_csv(directorio_salida+'bajadas/danielpelegrina/'+i+'.csv',index=False)
     except:
         pass
 
 
 
 
-
+#daniel+pelegrina
 
 
 
