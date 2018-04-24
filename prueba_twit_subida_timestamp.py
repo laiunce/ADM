@@ -19,7 +19,7 @@ logging.basicConfig(    filename='/var/log/daemon_escucha_twitter.log',
                         level=logging.INFO)
 
 #telnet  27017 
-WORDS = ['Daniel,Pelegrina,daniel,pelegrina']
+WORDS = ['Pelegrina,pelegrina']
 
 
 CONSUMER_KEY = '0LIjneGg3swyWkghj0VXMaTc8'
