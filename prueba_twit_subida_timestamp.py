@@ -19,7 +19,7 @@ logging.basicConfig(    filename='/var/log/daemon_escucha_twitter.log',
                         level=logging.INFO)
 
 #telnet  27017 
-WORDS = ['noche']
+WORDS = ['Daniel,Pelegrina,daniel,pelegrina']
 
 
 CONSUMER_KEY = '0LIjneGg3swyWkghj0VXMaTc8'
@@ -68,8 +68,8 @@ class StreamListener(tweepy.StreamListener):
 
             #print out a message to the screen that we have collected a tweet
 
-            go = es.create(index="twitter3",
-                      doc_type="bajada_twitter3",
+            go = es.create(index="twitter4",
+                      doc_type="bajada_twitter4",
                       id=datajson['id'],
                       body=datajson
                      )
