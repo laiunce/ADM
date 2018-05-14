@@ -1,0 +1,154 @@
+nohup: ignoring input
+Tracking: ['@DanielPelegrina', 'pelegrina, Pelegrina, PELEGRINA']
+You are now connected to the streaming API.
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993169599943335936", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 13}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993172994217431044", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 14}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993175663933902850", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 17}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993192421558190080", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 16}
+TransportError(400, 'illegal_argument_exception', 'Limit of total fields [1000] in index [twitter_pelegrina] has been exceeded')
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993216556510466048", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 17}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993222620437991424", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 15}
+TransportError(400, 'illegal_argument_exception', 'Limit of total fields [1000] in index [twitter_pelegrina] has been exceeded')
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993256905639432193", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 18}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993276197713756161", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 15}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993277193181630464", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 19}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993284947237629955", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 16}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993369285354455040", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 17}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993378237303619585", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 16}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993379412820180992", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 16}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993441609873227778", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 18}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993457310088474626", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 20}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993461407193575424", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 19}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993504878109523968", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 18}
+TransportError(400, 'illegal_argument_exception', 'Limit of total fields [1000] in index [twitter_pelegrina] has been exceeded')
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993630306866348033", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 17}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993632362318643200", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 20}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993645405735866368", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 17}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993672706859065345", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 21}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993673158262583297", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 22}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993684234450616320", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 18}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993715729580019713", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 21}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993715793996197888", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 18}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993715973428535296", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 19}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993716614532083714", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 23}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993720870785945600", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 22}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993730930366992384", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 20}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993778356322742272", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 19}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993821548782997504", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 21}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993825281185140736", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 19}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993876077041897472", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 22}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993883531435827200", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 23}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993894110078603264", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 24}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993904782560636928", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 20}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993905251299266562", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 23}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993905351090155521", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 20}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993906072481075200", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 25}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993960527133999104", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 21}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993971956780273664", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 24}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993986557181857793", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 24}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993989540657422336", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 25}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993991196493172742", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 22}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "993994299049099266", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 21}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994002602588336131", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 22}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994025257269956608", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 23}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994029243544850433", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 25}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994031806184808448", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 23}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994068173623320576", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 26}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994071815466123267", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 24}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994073584086773760", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 25}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994079938293755904", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 27}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994164813684191232", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 26}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994229362579988480", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 24}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994231416295690240", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 27}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994238631727464448", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 28}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994268260664315904", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 26}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994297923671347200", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 27}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994298201388797956", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 29}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994300131460698112", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 28}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994302219280420871", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 25}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994302354286632961", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 26}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994304105052098562", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 28}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994304121107832832", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 29}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994306856364445698", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 27}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994311509286244353", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 29}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994373955845685248", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 26}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994406722587459585", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 30}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994419902843883520", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 28}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994522608493318146", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 30}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994534719525179392", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 30}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994543151036665857", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 27}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994550449104662528", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 31}/home/ubuntu/.local/lib/python3.5/site-packages/elasticsearch/connection/http_urllib3.py:135: UserWarning: Connecting to search-adm-35ohesxnchgmztcblylrwe3dvu.us-east-1.es.amazonaws.com using SSL with verify_certs=False is insecure.
+  'Connecting to %s using SSL with verify_certs=False is insecure.' % host)
+
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994600400786518018", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 31}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994604530372431872", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 28}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994608906331664386", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 29}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994613417557348352", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 32}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994658026517942274", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 31}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994658979845459970", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 30}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994679779080245254", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 33}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994679968163618819", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 29}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994684283150327808", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 31}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994685625776463873", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 30}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994693427186061313", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 31}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994695249791541248", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 32}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994696849947840513", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 32}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994702461771317250", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 32}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994705265705537538", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 33}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994705462326161409", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 32}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994710754573119488", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 33}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994725610734764032", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 34}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994727735623897088", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 33}
+{"_primary_term": 1, "_version": 1, "_shards": {"successful": 1, "total": 2, "failed": 0}, "result": "created", "_id": "994729992872517632", "_type": "twitter_pelegrina", "_index": "twitter_pelegrina", "_seq_no": 34}
+You are now connected to the streaming API.
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/urllib3/response.py", line 302, in _error_catcher
+    yield
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/urllib3/response.py", line 384, in read
+    data = self._fp.read(amt)
+  File "/usr/lib/python3.5/http/client.py", line 448, in read
+    n = self.readinto(b)
+  File "/usr/lib/python3.5/http/client.py", line 478, in readinto
+    return self._readinto_chunked(b)
+  File "/usr/lib/python3.5/http/client.py", line 573, in _readinto_chunked
+    chunk_left = self._get_chunk_left()
+  File "/usr/lib/python3.5/http/client.py", line 541, in _get_chunk_left
+    chunk_left = self._read_next_chunk_size()
+  File "/usr/lib/python3.5/http/client.py", line 501, in _read_next_chunk_size
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.5/ssl.py", line 929, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 791, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 575, in read
+    v = self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bajada_twitter_pelegrina.py", line 95, in <module>
+    streamer.filter(track=WORDS)
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/tweepy/streaming.py", line 450, in filter
+    self._start(async)
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/tweepy/streaming.py", line 364, in _start
+    self._run()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/tweepy/streaming.py", line 297, in _run
+    six.reraise(*exc_info)
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/tweepy/streaming.py", line 266, in _run
+    self._read_loop(resp)
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/tweepy/streaming.py", line 316, in _read_loop
+    line = buf.read_line().strip()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/tweepy/streaming.py", line 181, in read_line
+    self._buffer += self._stream.read(self._chunk_size)
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/urllib3/response.py", line 401, in read
+    raise IncompleteRead(self._fp_bytes_read, self.length_remaining)
+  File "/usr/lib/python3.5/contextlib.py", line 77, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/urllib3/response.py", line 320, in _error_catcher
+    raise ProtocolError('Connection broken: %r' % e, e)
+urllib3.exceptions.ProtocolError: ("Connection broken: ConnectionResetError(104, 'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by peer'))

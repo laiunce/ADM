@@ -19,7 +19,7 @@ logging.basicConfig(    filename='/var/log/daemon_escucha_twitter.log',
                         level=logging.INFO)
 
 #telnet  27017 
-WORDS = ['Pelegrina,pelegrina']
+WORDS = ['ginobili, Ginobili, ginobilli, Ginobilli']
 
 
 CONSUMER_KEY = '0LIjneGg3swyWkghj0VXMaTc8'
@@ -95,11 +95,5 @@ while True:
         streamer.filter(track=WORDS)
 logging.info(time.strftime("%I:%M:%S %p"))
 logging.info('Daemon Ended')
-
-
-twitter_stream = twitter.TwitterStream(auth=twitter_api.auth)
-stream = twitter_stream.statuses.filter(locations=[-6.38,49.87,1.77,55.81])
-
-
 
 
