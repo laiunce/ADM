@@ -21,7 +21,6 @@ logging.basicConfig(    filename='/var/log/daemon_escucha_twitter_filtrogeopint.
 #telnet  27017 
 GEOBOX_WORLD = [-180,-90,180,90]
 GEOBOX_GERMANY = [5.0770049095, 47.2982950435, 15.0403900146, 54.9039819757]
-
 GEOBOX_ARG= [-79.7, -55.13, -49.82, -21.04]
 
 
@@ -93,7 +92,7 @@ while True:
         #Set up the listener. The 'wait_on_rate_limit=True' is needed to help with Twitter API rate limiting.
         listener = StreamListener(api=tweepy.API(wait_on_rate_limit=True)) 
         streamer = tweepy.Stream(auth=auth, listener=listener)
-        print("Tracking: " + str(WORDS))
+        print("Tracking: " + str(GEOBOX_ARG))
         streamer.filter(locations=GEOBOX_ARG)
 logging.info(time.strftime("%I:%M:%S %p"))
 logging.info('Daemon Ended')
