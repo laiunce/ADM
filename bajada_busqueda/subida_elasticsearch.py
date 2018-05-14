@@ -17,12 +17,18 @@ import json
 import time
 import csv
 
+#urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+user,passw = 'laiun.ce@gmail.com','Lw8dyr15'
+
 ES_HOST = 'https://search-adm-35ohesxnchgmztcblylrwe3dvu.us-east-1.es.amazonaws.com'
-es = Elasticsearch(ES_HOST)
+es = Elasticsearch(ES_HOST,  verify_certs=False)
+
 
 number = 0
 
-directorio = 'C:\\Users\\LAC40641\\Desktop\\'
+#directorio = 'C:\\Users\\LAC40641\\Desktop\\'
+directorio = '/Users/laiunce/Documents/ADM/bajada_busqueda/bajadas/impuestos/'
 
 file = open(directorio+'carga_datos.csv', "rU")
 reader = csv.reader(file, delimiter=',')
@@ -35,7 +41,6 @@ for row in reader:
     cantidad = row[3]
     fechaini = row[4]
     fechafin = row[5]
-    global number
     number += 1
 
     go = es.index(

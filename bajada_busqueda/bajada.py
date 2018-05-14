@@ -134,16 +134,18 @@ directorio_salida='/Users/laiunce/Documents/ADM/bajada_busqueda/'
 data_out_merged = pd.DataFrame()
 
 
-busqueda = 'daniel+pelegrina'
+#busqueda = 'impuestos+argentina'
+busqueda = 'daniel+pelegrina+argentina'
+#regex= 'impuestos'
 #regex= 'macri.*puta.*pario'
 regex= 'daniel.{0,10}pelegrina'
-
+carpeta_bajada='danielpelegrina'
 
 comando2= 'mkdir bajada/'+busqueda
 #os.system(comando2)  
         
 #fechas = ['20180411','20180412','20180413','20180414','20180415','20180416','20180417']
-fechas = ['20180411','20180412','20180413','20180414','20180415','20180416','20180417']
+fechas = ['20180411','20180414','20180422','20180429']
 for i in fechas:
     print(i)
     try:
@@ -151,7 +153,7 @@ for i in fechas:
         fechafin = i
         data_out = devuelve_palabras_cantidades(busqueda,fechaini,fechafin,regex)   
         #data_out_merged= pd.concat([data_out_merged, data_out], ignore_index=True)
-        data_out.to_csv(directorio_salida+'bajadas/danielpelegrina/'+i+'.csv',index=False)
+        data_out.to_csv(directorio_salida+'bajadas/'+carpeta_bajada+'/'+i+'.csv',index=False)
     except:
         pass
 
